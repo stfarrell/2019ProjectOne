@@ -1,0 +1,74 @@
+body {
+    background-color: yellow;
+}
+
+#badger {
+    width: 100%;
+    padding: 10px;
+}
+
+nav {
+    background-color: gold;
+    font-family: sans-serif;
+    font-size: 24px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 4px;
+    padding: 10px;
+    }
+    
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+#badgernation {
+    height: 200px;
+    background-image: url("hufflepuff2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    font-family: Helvetica;
+    font-size:2vw;
+    font-weight: bold;
+    color: yellow;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+
+}
+#stand {
+    background-color: black;
+    color: yellow;
+    font-size: 2vw;
+    font-family: Helvetica;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#wedabest {
+    background-color: gold;
+    color:black;
+    font-size: 2em;
+    font-family: Helvetica;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#datebody {
+    background-color: gold;
+    color: black;
+    font-size: 2vw;
+    font-family: Helvetica;
+}
+
+.header {
+    font-family: 'Dokdo', cursive;
+}
